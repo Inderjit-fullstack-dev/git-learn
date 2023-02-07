@@ -1,2 +1,3 @@
 this is dev file
-new line added in master branch
+new line added in master branch, yes added
+another new line
